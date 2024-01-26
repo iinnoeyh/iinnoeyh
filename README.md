@@ -1,14 +1,14 @@
-<h2>👋 Hi, I’m @iinnoehy.</h1>
-<h3>👀 I’m interested in various development fields such as front-end, back-end, and game client, and I also know a little bit of 2D/3D design.</h3>
+<h1>👋 Hi, I’m @iinnoehy.</h1>
+<h2>👀 I’m interested in various development fields such as front-end, back-end, and game client, and I also know a little bit of 2D/3D design.</h2>
 <br>
 
-<h3>💻 Projects</h3>
+<h2>💻 Projects</h2>
 <ul>
   <li>Internship Project: Electric Vehicle Charger Kiosk</li>
   <li>Graduation work: Unmanned Enforcement System For Handicapped Parking Area</li>
 </ul><br>
 
-<h3>🛠️ Tech Stack</h3>
+<h2>🛠️ Tech Stack</h2>
 <ul>
   <li>This is a technology stack that I experienced little by little while working on the project.</li>
 </ul>
@@ -42,18 +42,18 @@
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div><br>
 
-<h3>🎨 Design Tool</h3>
+<h2>🎨 Design Tool</h2>
 <ul>
   <li>Procreate(2D), 3Ds Max(2D/3D), PhotoShop(Pixel Art), Illustrator</li>
 </ul><br>
 
-<h3>🌱 I’m currently learning ...</h3>
+<h2>🌱 I’m currently learning ...</h2>
 <ul style="list-style: none;">
   <li>React</li>
   <li>Algorithm</li>
 </ul><br>
 
-<h3>📫 Blog</h3>
+<h2>📫 Blog</h2>
 <div align="start">
   <a href="https://velog.io/@iinnoeyh/posts" target='_blank'><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 </div>
