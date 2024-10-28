@@ -7,7 +7,7 @@
 ## 💻 Projects
 
 * Internship Project: Electric Vehicle Charger Kiosk
-* [Graduation work: Unmanned Enforcement System For Handicapped Parking Area](https://github.com/iinnoeyh/Unmanned-Enforcement-System-For-Handicapped-Parking-Area)
+* Graduation work: Unmanned Enforcement System For Handicapped Parking Area
   
 <br>
 
